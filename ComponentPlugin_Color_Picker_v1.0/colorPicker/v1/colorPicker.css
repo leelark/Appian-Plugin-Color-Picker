@@ -1,0 +1,10 @@
+html ,body {
+  margin: 0;
+  padding: 0;
+}
+
+#content-container {
+  position: relative;
+  display: inline-block;
+  background-color: #ccc;
+}

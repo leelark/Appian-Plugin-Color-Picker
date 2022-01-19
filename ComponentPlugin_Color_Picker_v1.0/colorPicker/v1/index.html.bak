@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <!-- <link rel="stylesheet" type="text/css" href="colorPicker.css"> -->
+  </head>
+
+  <body>
+    <div id="content-container">
+	<input type="color" id="favcolor" color="">
+		</div>
+		
+		<div id="content-container12">
+	<input type="text" id="favcolor12" color="">
+		</div>
+	    <script src='APPIAN_JS_SDK_URI'></script>
+	    <script src='libs/jquery.3.3.1.min.js'></script>
+	    <script src="colorPicker.js"></script>
+
+	
+  </body>
+</html>
